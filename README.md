@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhananjay Kolte and I'm a full stack developer, from India</p>
+<p align="left">My name is Dhananjay Kolte and I'm a full stack developer, from India 🇮🇳</p>
 
 ###
 
