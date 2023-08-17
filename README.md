@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Writing code for clients since 2016.<br>- Experience in Healthcare, Retail, Logistics, and Entertainment domain<br>- Completed Masters in Computer Science<br>- Belief in Design and Architecture patterns<br>- Knows Backend, Frontend, DevOps, and Automation QA</p>
+<p align="left">- Writing code for clients since 2016.<br>- Worked on Microservices, Monolithic and Java Agents type applications<br>- Experience in Healthcare, Retail, Logistics, and Entertainment domain<br>- Completed Masters in Computer Science<br>- Belief in Design and Architecture patterns<br>- Knows Backend, Frontend and DevOps</p>
 
 ###
 
